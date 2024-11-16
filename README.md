@@ -1,7 +1,7 @@
-### Hi there, I'm Acwink and I love learning!👋
+### Hi there, I'm Sean and I love learning!👋
 
 <!--
-**acwink/acwink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sean/Sean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
